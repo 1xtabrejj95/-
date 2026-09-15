@@ -15,7 +15,7 @@ API_KEY = "9X0M-TN8Z-G7BV-PO9O"
 API_BASE = "https://nitin-devloper-apis.ajayboy3027.workers.dev/api"
 
 # 🔥 Validate token
-if BOT_TOKEN == "8720844045:AAGtw1KGzaSnq6MGAQs-tlNJMCLz6hlROqA" or not BOT_TOKEN:
+if BOT_TOKEN == "YOUR_BOT_TOKEN_HERE" or not BOT_TOKEN:
     print("❌ BOT_TOKEN set nahi kiya! Upar line mein daalo.")
     exit(1)
 
