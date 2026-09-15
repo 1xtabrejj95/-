@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 # ============================
 # CONFIG
 # ============================
-TOKEN = "8720844045:AAGtw1KGzaSnq6MGAQs-tlNJMCLz6hlROqA''
+TOKEN = "8720844045:AAE2EA-BUn7La3Tzll6ZJoFvDynYpaKyhNk"
 OWNER_ID = 8965421970
 
 FIREBASE_URLS = [
